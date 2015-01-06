@@ -6,8 +6,7 @@ I will save it and then commit on my local repository.
 
 Followed by a push to sync it to my github.
 
-<<<<<<< HEAD
 This line is entered in the master branch. I will save it and try to merge.
-=======
+
 This text is entered in the side branch.
->>>>>>> sidework
+
